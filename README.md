@@ -1,10 +1,5 @@
 # .NET (C#) Interview Questions and Answers
 
-This document contains a collection of 50 interview questions related to .NET and the C# programming language, aimed at assessing candidates at various levels of expertise.
-
-For more content like this be sure to join 15,500+ engineers to my [TheCodeMan.net Newsletter](https://thecodeman.net/?utm_source=github)
-
-***These are only technical questions, it is not guaranteed that you will pass the interview if you know all the questions.***
 ## Basic
 
 1. **What is .NET?**
